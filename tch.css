@@ -1,11 +1,11 @@
 body {
-    background-color: bisque;
+    background-color: #1abc9c;
     color: #fff;
 }
 
 h1 {
     padding-top: 20%;
     padding-bottom: 20%;
-    color: #000;
+    color: #fff;
     text-align: center;
 }
